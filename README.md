@@ -6,7 +6,7 @@ About:
 
 2. Contains a well authenticated contact, login and sinup froms.
 
-3. Contains many categories regarding clothes.
+3. Contains many categories regarding clothes and mobile.
 
 4. A nice Footer.
 
